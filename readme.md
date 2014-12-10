@@ -1,3 +1,7 @@
+## Tweaks made to the skin
+
+Make the widgets always visible, and disable autoscrolling. Screenshots:
+
 <h1>mim·ic</h1>
 <code>1. To imitate</code><br />
 <code>Synonyms: resemble, look like, have the appearance of</code>
